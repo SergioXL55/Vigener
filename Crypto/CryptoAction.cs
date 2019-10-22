@@ -1,0 +1,4 @@
+﻿enum CryptoAction
+{
+    ENCODE,DECODE
+}
